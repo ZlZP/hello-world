@@ -1,4 +1,6 @@
 # hello-world
 First repository
 
-Just checking something!
+
+
+I added this as an example! Also checking something :D
